@@ -77,13 +77,5 @@ Once Jira is set up, your IT team can handle tickets like a well-oiled machine!
 
 ---
 
-## 🛠 Managing and Resolving Tickets Like a Boss
-
-With Jira, IT teams can work smarter, not harder. Here’s how a typical ticket journey unfolds:
-
-![Ticket Lifecycle](https://your-image-link.com/jira-ticket-lifecycle.png)
-
-
----
 
 
