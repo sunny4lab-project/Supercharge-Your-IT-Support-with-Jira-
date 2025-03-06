@@ -14,8 +14,6 @@ A ticketing system is a tool used by IT support teams to manage and track reques
    - Review tricky cases to improve future support strategies.
 
 
-Jira isn't just a ticketing system—it's your IT team's secret weapon for tracking issues, streamlining workflows, and delivering top-notch support with ease!
-
 ![Jira Dashboard](https://your-image-link.com/jira-dashboard.png)
 
 ### 🔥 Steps to Set Up Jira for IT Support
